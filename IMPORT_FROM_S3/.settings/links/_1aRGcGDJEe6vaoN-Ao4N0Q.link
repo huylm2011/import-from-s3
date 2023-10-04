@@ -1,0 +1,14 @@
+{
+  "itemId" : "_1aRGcGDJEe6vaoN-Ao4N0Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_so2CUGG0Ee6XWdh710dT3g",
+    "parameterList" : [ {
+      "id" : "_spwoUWG0Ee6XWdh710dT3g",
+      "name" : "s3_access_key"
+    }, {
+      "id" : "_spwoUmG0Ee6XWdh710dT3g",
+      "name" : "s3_secret_key"
+    } ]
+  } ]
+}
